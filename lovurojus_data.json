@@ -14,7 +14,7 @@
     "support_email": "info@lovurojus.lt",
     "phone": null,
     "opening_hours": null,
-    "last_updated": "2025-04-05T16:00:00Z"
+    "last_updated": "2025-04-05T18:00:00Z"
   },
 
   "categories": [
@@ -31,9 +31,9 @@
     { "id": "wardrobes", "name": "Spintos", "count": 11, "image": "https://lovurojus.lt/wp-content/uploads/2024/10/wardrobe.jpg" }
   ],
 
-  "main_page_products": [
+  "most_attention_products": [
     {
-      "id": "prod_table_tendencija",
+      "id": "attn_tendencija",
       "name": "Stalas \"Tendencija\" 2dydžiai",
       "name_en": "Table \"Tendencija\" 2 sizes",
       "category_id": "dining_tables",
@@ -56,7 +56,7 @@
       "ar_rotation": [0, 0, 0]
     },
     {
-      "id": "prod_table_max",
+      "id": "attn_table_max",
       "name": "Išskleidžiamas stalas \"Max\" 50-330cm",
       "name_en": "Extendable Table \"Max\" 50-330cm",
       "category_id": "dining_tables",
@@ -79,7 +79,7 @@
       "ar_rotation": [0, 0, 0]
     },
     {
-      "id": "prod_table_lime_36",
+      "id": "attn_lime_36",
       "name": "Stalas \"Lime\" 36mm 3dydžiai",
       "name_en": "Table \"Lime\" 36mm 3 sizes",
       "category_id": "dining_tables",
@@ -102,7 +102,7 @@
       "ar_rotation": [0, 0, 0]
     },
     {
-      "id": "prod_table_lime_18",
+      "id": "attn_lime_18",
       "name": "Stalas \"Lime\" 18mm 3dydžiai",
       "name_en": "Table \"Lime\" 18mm 3 sizes",
       "category_id": "dining_tables",
@@ -125,7 +125,7 @@
       "ar_rotation": [0, 0, 0]
     },
     {
-      "id": "prod_table_omega",
+      "id": "attn_omega",
       "name": "Stalas \"Omega\" 3 dydžiai",
       "name_en": "Table \"Omega\" 3 sizes",
       "category_id": "dining_tables",
@@ -148,7 +148,7 @@
       "ar_rotation": [0, 0, 0]
     },
     {
-      "id": "prod_coffee_table_lite",
+      "id": "attn_coffee_lite",
       "name": "Žurnalinis staliukas \"Lite\"",
       "name_en": "Coffee Table \"Lite\"",
       "category_id": "coffee_tables",
@@ -172,6 +172,54 @@
     }
   ],
 
+  "monthly_offers": [
+    {
+      "id": "offer_klasika",
+      "product_id": "prod_klasika",
+      "title": "Sofa-Lova Klasika su integruotu čiužiniu",
+      "title_en": "Sofa-Bed Klasika with Integrated Mattress",
+      "ends_soon": true,
+      "image_url": "https://lovurojus.lt/wp-content/uploads/2024/10/2.png",
+      "badge": "Limited Time"
+    },
+    {
+      "id": "offer_bona3",
+      "product_id": "prod_bona3",
+      "title": "Sofa-Lova Bona 3 su integruotu čiužiniu",
+      "title_en": "Sofa-Bed Bona 3 with Integrated Mattress",
+      "ends_soon": true,
+      "image_url": "https://lovurojus.lt/wp-content/uploads/2024/10/8.png",
+      "badge": "Popular"
+    },
+    {
+      "id": "offer_bona1",
+      "product_id": "prod_bona1",
+      "title": "Fotelis-Lova Bona 1 su integruotu čiužiniu",
+      "title_en": "Armchair-Bed Bona 1 with Integrated Mattress",
+      "ends_soon": true,
+      "image_url": "https://lovurojus.lt/wp-content/uploads/2024/10/6.png",
+      "badge": "Compact"
+    },
+    {
+      "id": "offer_bona2",
+      "product_id": "prod_bona2",
+      "title": "Sofa-Lova Bona 2 su integruotu čiužiniu",
+      "title_en": "Sofa-Bed Bona 2 with Integrated Mattress",
+      "ends_soon": true,
+      "image_url": "https://lovurojus.lt/wp-content/uploads/2024/10/7.png",
+      "badge": "Best Seller"
+    },
+    {
+      "id": "offer_aiste",
+      "product_id": "prod_aiste",
+      "title": "Sofa-Lova Aistė su integruotu čiužiniu",
+      "title_en": "Sofa-Bed Aistė with Integrated Mattress",
+      "ends_soon": true,
+      "image_url": "https://lovurojus.lt/wp-content/uploads/2024/10/1.png",
+      "badge": "Spacious"
+    }
+  ],
+
   "all_products": [
     {
       "id": "prod_klasika",
@@ -185,8 +233,8 @@
       "rating": 0,
       "description": "Klasikinė sofa, kuri tampa lova – puikus pasirinkimas svečiams.",
       "description_en": "Classic sofa that turns into a bed – perfect for guests.",
-      "story": "„Klasika“ – tai ne tik baldas, tai šeimos istorija.",
-      "story_en": "The 'Klasika' is more than furniture — it's family history.",
+      "story": "„Klasika“ – tai ne tik baldas, tai šeimos istorija. Ji atlaiko laiką, vaikų šuolius ir nesuskaičiuojamas nakvynes svečių. Ji lieka tvirta, patogi ir graži.",
+      "story_en": "The 'Klasika' is more than furniture — it's family history. It withstands time, kids jumping, and countless guest nights. It stays strong, comfortable, and beautiful.",
       "images": [
         "https://lovurojus.lt/wp-content/uploads/2024/10/2.png",
         "https://lovurojus.lt/wp-content/uploads/2024/10/viber_image_2024-10-22_16-24-46-743.jpg"
@@ -208,8 +256,8 @@
       "rating": 0,
       "description": "Ervingas L-formos kampas su vokišku čiužiniu.",
       "description_en": "Spacious L-shaped sofa with German-style mattress.",
-      "story": "„Bona 3“ – tai komforto centras.",
-      "story_en": "The 'Bona 3' is the comfort hub.",
+      "story": "„Bona 3“ – tai komforto centras. Ji kviečia atsipalaiduoti, žiūrėti filmus ir net miegoti. Ji tampa jūsų namų širdimi.",
+      "story_en": "The 'Bona 3' is the comfort hub. It invites relaxation, movie nights, and even sleep. It becomes the heart of your home.",
       "images": [
         "https://lovurojus.lt/wp-content/uploads/2024/10/8.png",
         "https://lovurojus.lt/wp-content/uploads/2024/10/viber_image_2024-11-25_14-59-00-384.jpg"
@@ -231,8 +279,8 @@
       "rating": 0,
       "description": "Kompaktiškas fotelis, kuris tampa lova.",
       "description_en": "Compact armchair that turns into a bed.",
-      "story": "„Bona 1“ – tai sprendimas mažiems butams.",
-      "story_en": "The 'Bona 1' is the solution for small spaces.",
+      "story": "„Bona 1“ – tai sprendimas mažiems butams. Ji neatrodo kaip svečių lova – atrodo kaip stilingas fotelis, bet naktį tampa miego erdve.",
+      "story_en": "The 'Bona 1' fits even on a balcony. It doesn’t look like a guest bed — it looks like a stylish armchair, but at night it becomes a sleeping space.",
       "images": [
         "https://lovurojus.lt/wp-content/uploads/2024/10/6.png",
         "https://lovurojus.lt/wp-content/uploads/2024/10/viber_image_2024-11-25_15-47-36-885.jpg"
@@ -254,8 +302,8 @@
       "rating": 0,
       "description": "Moderni sofa su lengvu transformavimu.",
       "description_en": "Modern sofa with easy transformation.",
-      "story": "„Bona 2“ – tai stilius ir funkcionalumas.",
-      "story_en": "The 'Bona 2' is style and function.",
+      "story": "„Bona 2“ – tai stilius ir funkcionalumas. Ji atrodo kaip elegantiška sofa, bet naktį tampa jaukia lova. Idealus pasirinkimas svečiams.",
+      "story_en": "The 'Bona 2' is style and function. It looks like an elegant sofa, but at night becomes a cozy bed. Perfect for guests.",
       "images": [
         "https://lovurojus.lt/wp-content/uploads/2024/10/7.png",
         "https://lovurojus.lt/wp-content/uploads/2024/10/viber_image_2024-10-22_16-21-14-443.jpg"
@@ -277,8 +325,8 @@
       "rating": 0,
       "description": "Didelė L-formos sofa su minkštu čiužiniu.",
       "description_en": "Large L-shaped sofa with soft mattress.",
-      "story": "„Aistė“ – tai erdvė ir jaukumas.",
-      "story_en": "The 'Aistė' is space and comfort.",
+      "story": "„Aistė“ – tai erdvė ir jaukumas. Su ja jūs ne tik sėdite – jūs išsitiesiate, miegate, žiūrite serialus. Ji tampa jūsų asmenine oaza.",
+      "story_en": "The 'Aistė' is space and comfort. With it, you don’t just sit — you stretch, sleep, and binge-watch. It becomes your personal oasis.",
       "images": [
         "https://lovurojus.lt/wp-content/uploads/2024/10/1.png",
         "https://lovurojus.lt/wp-content/uploads/2024/10/viber_image_2024-11-25_14-55-29-105.jpg"
@@ -313,54 +361,6 @@
   ],
 
   "offers": {
-    "monthly_product_offers": [
-      {
-        "id": "offer_klasika",
-        "product_id": "prod_klasika",
-        "title": "Sofa-Lova Klasika su integruotu čiužiniu",
-        "title_en": "Sofa-Bed Klasika with Integrated Mattress",
-        "ends_soon": true,
-        "image_url": "https://lovurojus.lt/wp-content/uploads/2024/10/2.png",
-        "badge": "Limited Time"
-      },
-      {
-        "id": "offer_bona3",
-        "product_id": "prod_bona3",
-        "title": "Sofa-Lova Bona 3 su integruotu čiužiniu",
-        "title_en": "Sofa-Bed Bona 3 with Integrated Mattress",
-        "ends_soon": true,
-        "image_url": "https://lovurojus.lt/wp-content/uploads/2024/10/8.png",
-        "badge": "Popular"
-      },
-      {
-        "id": "offer_bona1",
-        "product_id": "prod_bona1",
-        "title": "Fotelis-Lova Bona 1 su integruotu čiužiniu",
-        "title_en": "Armchair-Bed Bona 1 with Integrated Mattress",
-        "ends_soon": true,
-        "image_url": "https://lovurojus.lt/wp-content/uploads/2024/10/6.png",
-        "badge": "Compact"
-      },
-      {
-        "id": "offer_bona2",
-        "product_id": "prod_bona2",
-        "title": "Sofa-Lova Bona 2 su integruotu čiužiniu",
-        "title_en": "Sofa-Bed Bona 2 with Integrated Mattress",
-        "ends_soon": true,
-        "image_url": "https://lovurojus.lt/wp-content/uploads/2024/10/7.png",
-        "badge": "Best Seller"
-      },
-      {
-        "id": "offer_aiste",
-        "product_id": "prod_aiste",
-        "title": "Sofa-Lova Aistė su integruotu čiužiniu",
-        "title_en": "Sofa-Bed Aistė with Integrated Mattress",
-        "ends_soon": true,
-        "image_url": "https://lovurojus.lt/wp-content/uploads/2024/10/1.png",
-        "badge": "Spacious"
-      }
-    ],
-
     "marketing_offers": [
       {
         "id": "moffer_love_couch",
