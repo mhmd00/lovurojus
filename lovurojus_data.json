@@ -14,7 +14,7 @@
     "support_email": "info@lovurojus.lt",
     "phone": null,
     "opening_hours": null,
-    "last_updated": "2025-04-05T18:00:00Z"
+    "last_updated": "2025-04-05T18:30:00Z"
   },
 
   "categories": [
@@ -31,9 +31,9 @@
     { "id": "wardrobes", "name": "Spintos", "count": 11, "image": "https://lovurojus.lt/wp-content/uploads/2024/10/wardrobe.jpg" }
   ],
 
-  "most_attention_products": [
+  "featured_products": [
     {
-      "id": "attn_tendencija",
+      "id": "feat_tendencija",
       "name": "Stalas \"Tendencija\" 2dydžiai",
       "name_en": "Table \"Tendencija\" 2 sizes",
       "category_id": "dining_tables",
@@ -56,7 +56,7 @@
       "ar_rotation": [0, 0, 0]
     },
     {
-      "id": "attn_table_max",
+      "id": "feat_table_max",
       "name": "Išskleidžiamas stalas \"Max\" 50-330cm",
       "name_en": "Extendable Table \"Max\" 50-330cm",
       "category_id": "dining_tables",
@@ -79,7 +79,7 @@
       "ar_rotation": [0, 0, 0]
     },
     {
-      "id": "attn_lime_36",
+      "id": "feat_lime_36",
       "name": "Stalas \"Lime\" 36mm 3dydžiai",
       "name_en": "Table \"Lime\" 36mm 3 sizes",
       "category_id": "dining_tables",
@@ -102,7 +102,7 @@
       "ar_rotation": [0, 0, 0]
     },
     {
-      "id": "attn_lime_18",
+      "id": "feat_lime_18",
       "name": "Stalas \"Lime\" 18mm 3dydžiai",
       "name_en": "Table \"Lime\" 18mm 3 sizes",
       "category_id": "dining_tables",
@@ -125,7 +125,7 @@
       "ar_rotation": [0, 0, 0]
     },
     {
-      "id": "attn_omega",
+      "id": "feat_omega",
       "name": "Stalas \"Omega\" 3 dydžiai",
       "name_en": "Table \"Omega\" 3 sizes",
       "category_id": "dining_tables",
@@ -148,7 +148,7 @@
       "ar_rotation": [0, 0, 0]
     },
     {
-      "id": "attn_coffee_lite",
+      "id": "feat_coffee_lite",
       "name": "Žurnalinis staliukas \"Lite\"",
       "name_en": "Coffee Table \"Lite\"",
       "category_id": "coffee_tables",
