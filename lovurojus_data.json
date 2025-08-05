@@ -1,0 +1,208 @@
+{
+  "metadata": {
+    "app_name": "Lovų Rojus AR",
+    "site_name": "Lovų Rojus",
+    "tagline": "Baldai namams, kuriuose gera gyventi!",
+    "tagline_en": "Furniture for homes where it's good to live!",
+    "description": "Sukurkite jaukią atmosferą savo namams su mūsų stilingais ir kokybiškais baldais.",
+    "description_en": "Create a cozy atmosphere in your home with our stylish and high-quality furniture.",
+    "location": "NEMUNO BALDŲ CENTRAS, II aukštas LOVŲ ROJUS, Justiniškių g. 79, Vilnius",
+    "website": "https://lovurojus.lt",
+    "instagram": "https://instagram.com/lovurojus",
+    "exhibition_link": "https://instagram.com/lovurojus",
+    "support_email": "info@lovurojus.lt",
+    "last_updated": "2025-04-05T15:00:00Z"
+  },
+
+  "categories": [
+    { "id": "corner_sofas", "name": "Minkšti kampai", "count": 59, "image": "https://lovurojus.lt/wp-content/uploads/2024/10/8.png" },
+    { "id": "l_shaped_sofas", "name": "L-formos minkšti kampai", "count": 46, "image": "https://lovurojus.lt/wp-content/uploads/2024/10/1.png" },
+    { "id": "sofas", "name": "Sofos", "count": 36, "image": "https://lovurojus.lt/wp-content/uploads/2024/04/viber_image_2024-04-26_13-40-00-859.jpg" },
+    { "id": "armchairs", "name": "Minkšti krėslai", "count": 32, "image": "https://lovurojus.lt/wp-content/uploads/2024/10/6.png" },
+    { "id": "tables", "name": "Stalai", "count": 31, "image": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_110_70_idastrial_wh_1.jpg" },
+    { "id": "beds", "name": "Lovos", "count": 28, "image": "https://lovurojus.lt/wp-content/uploads/2024/10/1.png" },
+    { "id": "dining_tables", "name": "Valgomojo stalai", "count": 39, "image": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_115_75_1.jpg" },
+    { "id": "coffee_tables", "name": "Kavos staliukai", "count": 5, "image": "https://lovurojus.lt/wp-content/uploads/2025/01/urban_prystavnyy.jpg" }
+  ],
+
+  "products": [
+    {
+      "id": "prod_klasika",
+      "name": "Sofa-Lova Klasika su integruotu čiužiniu",
+      "name_en": "Sofa-Bed Klasika with Integrated Mattress",
+      "category_id": "sofas",
+      "price": 999,
+      "currency": "EUR",
+      "free_delivery": true,
+      "installment": true,
+      "rating": 0,
+      "description": "Klasikinė sofa, kuri tampa lova – puikus pasirinkimas svečiams.",
+      "description_en": "Classic sofa that turns into a bed – perfect for guests.",
+      "story": "„Klasika“ – tai ne tik baldas, tai šeimos istorija. Ji atlaiko laiką, vaikų šuolius ir nesuskaičiuojamas nakvynes svečių. Ji lieka tvirta, patogi ir graži.",
+      "story_en": "The 'Klasika' is more than furniture — it's family history. It withstands time, kids jumping, and countless guest nights. It stays strong, comfortable, and beautiful.",
+      "images": [
+        "https://lovurojus.lt/wp-content/uploads/2024/10/2.png",
+        "https://lovurojus.lt/wp-content/uploads/2024/10/viber_image_2024-10-22_16-24-46-743.jpg"
+      ],
+      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2024/10/2.png",
+      "model_3d_url": "https://firebasestorage.googleapis.com/v0/b/lovurojus-ar.appspot.com/o/models%2Fsofa_klasika.glb?alt=media",
+      "ar_scale": 1.0,
+      "ar_rotation": [0, 180, 0]
+    },
+    {
+      "id": "prod_bona3",
+      "name": "Sofa-Lova Bona 3 su integruotu čiužiniu",
+      "name_en": "Sofa-Bed Bona 3 with Integrated Mattress",
+      "category_id": "l_shaped_sofas",
+      "price": 1199,
+      "currency": "EUR",
+      "free_delivery": true,
+      "installment": true,
+      "rating": 0,
+      "description": "Ervingas L-formos kampas su vokišku čiužiniu.",
+      "description_en": "Spacious L-shaped sofa with German-style mattress.",
+      "story": "„Bona 3“ – tai komforto centras. Ji kviečia atsipalaiduoti, žiūrėti filmus ir net miegoti. Ji tampa jūsų namų širdimi.",
+      "story_en": "The 'Bona 3' is the comfort hub. It invites relaxation, movie nights, and even sleep. It becomes the heart of your home.",
+      "images": [
+        "https://lovurojus.lt/wp-content/uploads/2024/10/8.png",
+        "https://lovurojus.lt/wp-content/uploads/2024/10/viber_image_2024-11-25_14-59-00-384.jpg"
+      ],
+      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2024/10/8.png",
+      "model_3d_url": "https://firebasestorage.googleapis.com/v0/b/lovurojus-ar.appspot.com/o/models%2Fsofa_bona3.glb?alt=media",
+      "ar_scale": 1.05,
+      "ar_rotation": [0, 180, 0]
+    },
+    {
+      "id": "prod_table_max",
+      "name": "Išskleidžiamas stalas \"Max\" 50-330cm",
+      "name_en": "Extendable Table \"Max\" 50-330cm",
+      "category_id": "dining_tables",
+      "price": 899,
+      "currency": "EUR",
+      "free_delivery": true,
+      "installment": true,
+      "rating": 0,
+      "description": "Inovatyvus stalas, kuris išsiplėčia be įstatomų dalių.",
+      "description_en": "Innovative table that expands without leaves.",
+      "story": "„Max“ stalas – tai erdvės sprendimas. Nuo dviejų iki 10 žmonių – viskas viename. Slidinėjantis mechanizmas leidžia išplėsti stalą per kelias sekundes.",
+      "story_en": "The 'Max' table is engineering meets elegance. Whether you're dining solo or hosting 10, it adapts in seconds.",
+      "images": [
+        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_110_70_idastrial_wh_1.jpg",
+        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_115_75_1.jpg"
+      ],
+      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_110_70_idastrial_wh_1.jpg",
+      "model_3d_url": "https://firebasestorage.googleapis.com/v0/b/lovurojus-ar.appspot.com/o/models%2Ftable_max.glb?alt=media",
+      "ar_scale": 1.1,
+      "ar_rotation": [0, 0, 0]
+    }
+  ],
+
+  "offers": {
+    "product_offers": [
+      {
+        "id": "offer_klasika",
+        "product_id": "prod_klasika",
+        "title": "Sofa-Lova Klasika su integruotu čiužiniu",
+        "title_en": "Sofa-Bed Klasika with Integrated Mattress",
+        "ends_soon": true,
+        "image_url": "https://lovurojus.lt/wp-content/uploads/2024/10/2.png",
+        "badge": "Limited Time"
+      },
+      {
+        "id": "offer_bona3",
+        "product_id": "prod_bona3",
+        "title": "Sofa-Lova Bona 3 su integruotu čiužiniu",
+        "title_en": "Sofa-Bed Bona 3 with Integrated Mattress",
+        "ends_soon": true,
+        "image_url": "https://lovurojus.lt/wp-content/uploads/2024/10/8.png",
+        "badge": "Popular"
+      },
+      {
+        "id": "offer_milana",
+        "product_id": "prod_milana",
+        "title": "Sofa Milana",
+        "title_en": "Sofa Milana",
+        "ends_soon": true,
+        "image_url": "https://lovurojus.lt/wp-content/uploads/2024/04/viber_image_2024-04-26_13-40-00-859.jpg",
+        "badge": "New"
+      }
+    ],
+
+    "marketing_offers": [
+      {
+        "id": "moffer_love_couch",
+        "type": "contest",
+        "title": "#MyLoveCouch: Pasakok savo meilės istoriją",
+        "title_en": "#MyLoveCouch: Share Your Love Story",
+        "subtitle": "Vieneriems metams – nemokama sofa!",
+        "subtitle_en": "One story, one year, one free sofa!",
+        "description": "Pasidalinkite savo meilės istorija – nuotrauka + balso įrašu. Kiekvieną mėnesį viena pora laimi nemokamą sofą iš Lovų Rojaus.",
+        "description_en": "Share your love story – photo + voice note. Every month, one couple wins a free sofa from Lovų Rojus.",
+        "image_url": "https://via.placeholder.com/600x300?text=%23MyLoveCouch+Global+Challenge",
+        "reward": "free_sofa_for_month",
+        "trigger": "upload_story_voice",
+        "valid_for": "global",
+        "icon": "favorite",
+        "hashtag": "#MyLoveCouch"
+      },
+      {
+        "id": "moffer_ramadan_nest",
+        "type": "seasonal",
+        "title": "Ramadan: Šeimos lizdas su 15% nuolaida",
+        "title_en": "Ramadan: Family Nest with 15% Off",
+        "subtitle": "Nuo sahuro iki iškryčių – jauku kartu",
+        "subtitle_en": "From suhoor to iftar – cozy together",
+        "description": "Aplankykite mus arba paspauskite pusmėnulį 3 kartus ir gaukite 15% nuolaidą L-formos sofai.",
+        "description_en": "Visit us or tap the crescent moon 3 times to get 15% off an L-shaped sofa.",
+        "image_url": "https://via.placeholder.com/600x300?text=Ramadan+Family+Nest",
+        "reward": "15%_discount",
+        "trigger": "tap_crescent_3_times",
+        "valid_for": "global",
+        "season": "ramadan",
+        "icon": "nest"
+      },
+      {
+        "id": "moffer_sofa_flex",
+        "type": "challenge",
+        "title": "„Sofa Flex“ iššūkis: Parodyk savo atnaujinimą!",
+        "title_en": "Sofa Flex Challenge: Show Off Your Upgrade!",
+        "subtitle": "Įkeli video – laimi pinigus!",
+        "subtitle_en": "Post a video, win cash!",
+        "description": "Films savo seną sofos griuvėsį, tada parodo naują Lovų Rojus sofą. Naudok #SofaFlex ir gauk galimybę laimėti 100€ dovanų kortelę!",
+        "description_en": "Film your old couch trash, then reveal your new Lovų Rojus sofa. Use #SofaFlex and win a $100 gift card!",
+        "image_url": "https://via.placeholder.com/600x300?text=Sofa+Flex+TikTok+Challenge",
+        "reward": "100_euro_gift_card",
+        "trigger": "upload_video_hashtag",
+        "valid_for": "global",
+        "hashtag": "#SofaFlex",
+        "icon": "videocam"
+      },
+      {
+        "id": "moffer_design_your_dream",
+        "type": "custom",
+        "title": "Sukurk savo sapno baldą – piešk!",
+        "title_en": "Design Your Dream Furniture – Draw It!",
+        "subtitle": "Paspausk „Piešti“ ir padaryk savo idėją tikrove",
+        "subtitle_en": "Tap 'Draw' and bring your idea to life",
+        "description": "Paspauskite mygtuką „Piešti“, nupieškite savo sapno sofą ar lovą, įkelkite. Mes ją pagaminsime – arba padarysime artimiausią versiją!",
+        "description_en": "Tap 'Draw', sketch your dream sofa or bed, upload. We’ll build it – or the closest version possible!",
+        "image_url": "https://via.placeholder.com/600x300?text=Design+Your+Dream+Baldą",
+        "reward": "custom_furniture_production",
+        "trigger": "tap_draw_button",
+        "valid_for": "global",
+        "icon": "edit",
+        "cta": "Draw Now",
+        "feature_in_gallery": true
+      }
+    ]
+  },
+
+  "links": {
+    "homepage": "https://lovurojus.lt",
+    "instagram": "https://instagram.com/lovurojus",
+    "exhibition": "https://instagram.com/lovurojus",
+    "contact": "https://lovurojus.lt/kontaktai",
+    "privacy_policy": "https://lovurojus.lt/privatumo-politika",
+    "terms": "https://lovurojus.lt/salygos"
+  }
+}
