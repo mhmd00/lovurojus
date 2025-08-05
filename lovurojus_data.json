@@ -31,7 +31,7 @@
     { "id": "wardrobes", "name": "Spintos", "count": 11, "image": "https://lovurojus.lt/wp-content/uploads/2024/10/wardrobe.jpg" }
   ],
 
-  "featured_products": [
+  "most_attention_products": [
     {
       "id": "feat_tendencija",
       "name": "Stalas \"Tendencija\" 2dydžiai",
