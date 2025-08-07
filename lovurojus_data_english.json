@@ -259,7 +259,7 @@
       "ar_rotation": [0, 180, 0]
     }
   ],
-  "monthly_offers": [
+   "monthly_offers": [
     {
       "id": "offer_klasika",
       "product_id": "prod_klasika",
