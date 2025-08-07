@@ -129,28 +129,28 @@
   "most_attention_products": [
     {
       "id": "prod_tendencija",
-      "name": "Stalas \"Tendencija\" 2 dydžiai",
+      "name": "Stalas \"Tendencija\" 2dydžiai",
       "category_id": "dining_tables",
-      "price": 599,
+      "price": 699,
       "currency": "EUR",
       "free_delivery": true,
       "installment": true,
       "rating": 5,
-      "description": "Stilingas valgomojo stalas su metaline rėmo konstrukcija ir medžio faktūros stalviršiu. Tinka šiuolaikiniam interjerui.",
-      "story": "„Tendencija“ – tai balansas tarp stiliaus ir funkcionalumo. Jis tampa jūsų virtuvės ar svetainės centru, kur susitinka šeima ir draugai.",
+      "description": "Stilingas ir funkcionalus valgomojo stalas su medžio struktūra. Tinka tiek šeimos pietums, tiek svečių vakarėliams.",
+      "story": "„Tendencija“ – tai stovėjimas ant laiko. Jo medinis paviršius atspindi gamtos grožį, o stipri konstrukcija užtikrina ilgą tarnavimą. Jis tampa jūsų namų centru – kur susitinka šeima, kur vyksta pokalbiai ir juokas.",
       "story_image": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_110_70_idastrial_wh_1.jpg",
-      "post_text": "Kai stalas tampa dėmesio centru. 🍽️ „Tendencija“ – ne tik valgymas, bet ir šeimos istorijos.",
+      "post_text": "Kai stalas tampa susibūrimo vieta. 🍽️ „Tendencija“ – tai ne tik baldas, tai šeimos istorijų kūrėjas.",
       "images": [
         "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_110_70_idastrial_wh_1.jpg",
         "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_115_75_1.jpg"
       ],
       "thumbnail": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_110_70_idastrial_wh_1.jpg",
-      "model_3d_url": "",
+      "model_3d_url": null,
       "ar_scale": 1.0,
       "ar_rotation": [0, 180, 0]
     },
     {
-      "id": "prod_max_table",
+      "id": "prod_max",
       "name": "Išskleidžiamas stalas \"Max\" 50-330cm",
       "category_id": "dining_tables",
       "price": 1299,
@@ -158,60 +158,59 @@
       "free_delivery": true,
       "installment": true,
       "rating": 5,
-      "description": "Universalus išskleidžiamas stalas, kuris telpa nuo 2 iki 12 žmonių. Puikus pasirinkimas dažniems svečiams.",
-      "story": "„Max“ – tai svečių priėmimo meistras. Nesvarbu, ar tai dviese, ar šeima – jis visada paruoštas.",
-      "story_image": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_110_70_idastrial_wh_1.jpg",
-      "post_text": "Mažas erdvėje, didelis reikmėje. 🪑 „Max“ – stalas, kuris plečiasi su jūsų poreikiais.",
+      "description": "Universalus išskleidžiamas stalas, kuris pritaikomas bet kokiam erdvės poreikiui – nuo dviejų žmonių iki didelės šeimos.",
+      "story": "„Max“ – tai protingas sprendimas mažam butui. Dieną – kompaktiškas stalas, vakare – didelis stalas svečiams. Jis simbolizuoja lankstumą ir šeimos vienybę.",
+      "story_image": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_115_75_1.jpg",
+      "post_text": "Išskleidžiamas stalas, kuris auga kartu su tavo poreikiais. 📏 „Max“ – tai protingas būsto sprendimas.",
       "images": [
-        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_110_70_idastrial_wh_1.jpg",
         "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_115_75_1.jpg"
       ],
-      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_110_70_idastrial_wh_1.jpg",
-      "model_3d_url": "",
+      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_115_75_1.jpg",
+      "model_3d_url": null,
       "ar_scale": 1.0,
       "ar_rotation": [0, 180, 0]
     },
     {
       "id": "prod_lime_36",
-      "name": "Stalas \"Lime\" 36mm 3 dydžiai",
+      "name": "Stalas \"Lime\" 36mm 3dydžiai",
       "category_id": "dining_tables",
-      "price": 699,
+      "price": 799,
       "currency": "EUR",
       "free_delivery": true,
       "installment": true,
       "rating": 5,
-      "description": "Masyvus, tvirtas stalas iš 36 mm storio plokštės. Atsparus dėvėjimui, tinka kasdieniam naudojimui.",
-      "story": "„Lime“ – tai ilgaamžiškumas. Jis tarnaus ne vienai kartai, atlaikys vaikų piešimus ir šeimos šventes.",
+      "description": "Stabilus ir stilingas stalas su 36 mm storio plokšte. Tinka šiuolaikiniam interjerui ir ilgam naudojimui.",
+      "story": "„Lime“ – tai tvirtumas ir švarus dizainas. Jo storis sako daugiau nei žodžiai – tai ilgaamžiškumas, patogumas ir stilius kiekvieną dieną.",
       "story_image": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d900_1.jpg",
-      "post_text": "Storas, stiprus, stilingas. 🌲 „Lime“ – stalas, kuris atlaikys laiką.",
+      "post_text": "Storas, stiprus, stilingas. 💚 „Lime“ – tai stalas, kuris atlaiko ne tik pietus, bet ir laiką.",
       "images": [
         "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d900_1.jpg",
         "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d900.jpg"
       ],
       "thumbnail": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d900_1.jpg",
-      "model_3d_url": "",
+      "model_3d_url": null,
       "ar_scale": 1.0,
       "ar_rotation": [0, 180, 0]
     },
     {
       "id": "prod_lime_18",
-      "name": "Stalas \"Lime\" 18mm 3 dydžiai",
+      "name": "Stalas \"Lime\" 18mm 3dydžiai",
       "category_id": "dining_tables",
-      "price": 499,
+      "price": 599,
       "currency": "EUR",
       "free_delivery": true,
       "installment": true,
-      "rating": 5,
-      "description": "Lengvesnė, ekonomiška versija „Lime“ stalo su 18 mm storio stalviršiu. Puikus pasirinkimas biudžetui.",
-      "story": "Net ir mažesnis „Lime“ nepraranda stiliaus. Jis suteikia jaukumo kiekvienam vakarui.",
+      "rating": 4,
+      "description": "Lengvas ir funkcionalus stalas su 18 mm plokšte. Puikus pasirinkimas kaip antrasis stalas ar mažam būstui.",
+      "story": "„Lime 18“ – tai paprastumas ir funkcionalumas. Jis netrukdo, bet visada čia – kai reikia arbatos, darbo ar trumpo pietų.",
       "story_image": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d1100_0-1.jpg",
-      "post_text": "Stiliumi – kaip brangesnis, kaina – protinga. 💚 „Lime 18mm“ – gudrus pasirinkimas.",
+      "post_text": "Ne kiekvienas stalas turi būti didelis. 🍵 „Lime 18“ – tai kompaktiškas draugas kiekvienai dienai.",
       "images": [
         "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d1100_0-1.jpg",
         "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d900.jpg"
       ],
       "thumbnail": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d1100_0-1.jpg",
-      "model_3d_url": "",
+      "model_3d_url": null,
       "ar_scale": 1.0,
       "ar_rotation": [0, 180, 0]
     },
@@ -219,21 +218,21 @@
       "id": "prod_omega",
       "name": "Stalas \"Omega\" 3 dydžiai",
       "category_id": "dining_tables",
-      "price": 549,
+      "price": 899,
       "currency": "EUR",
       "free_delivery": true,
       "installment": true,
       "rating": 5,
-      "description": "Elegantus stalas su elegantingu rėmu ir aukštos kokybės stalviršiu. Tinka tiek moderniems, tiek klasikiniams interjerams.",
-      "story": "„Omega“ – tai baigtumas. Kai įeinat į kambarį, jis iš karto traukia akį.",
+      "description": "Elegantus stalas su elegantišku metaliniu rėmu ir mediniu paviršiumi. Tinka tiek moderniam, tiek industrial stiliaus interjerui.",
+      "story": "„Omega“ – tai susitikimas tarp metalo ir medžio. Jėga ir šiluma. Jis tampa interjero akcentu, apie kurį kalbama.",
       "story_image": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_original_100_0.jpg",
-      "post_text": "Kai stalas kalba apie skonį. 🪵 „Omega“ – jūsų interjero dėmesio taškas.",
+      "post_text": "Kai dizainas kalba. 🔩 „Omega“ – tai stalas, kuris tampa meno kūriniu tavo virtuvėje.",
       "images": [
         "https://lovurojus.lt/wp-content/uploads/2025/01/stil_original_100_0.jpg",
         "https://lovurojus.lt/wp-content/uploads/2025/01/stil_original_130x80_0.jpg"
       ],
       "thumbnail": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_original_100_0.jpg",
-      "model_3d_url": "",
+      "model_3d_url": null,
       "ar_scale": 1.0,
       "ar_rotation": [0, 180, 0]
     },
@@ -241,21 +240,21 @@
       "id": "prod_lite_table",
       "name": "Žurnalinis staliukas \"Lite\"",
       "category_id": "coffee_tables",
-      "price": 199,
+      "price": 249,
       "currency": "EUR",
       "free_delivery": true,
       "installment": true,
-      "rating": 5,
-      "description": "Minimalistinis kavos staliukas su medžio faktūra ir metaline rėmo konstrukcija. Tinka prie bet kurios sofos.",
-      "story": "„Lite“ – tai paprastumas, kuris veikia. Jis nepersveria erdvės, bet suteikia funkcionalumo.",
+      "rating": 4,
+      "description": "Minimalistinis kavos staliukas su apvaliu paviršiumi. Puikiai tinka prie sofos ir suteikia baigtumo svetainės interjerui.",
+      "story": "„Lite“ – tai paprastumas, kuris džiugina. Jis neužkrauna erdvės, bet visada čia – kai reikia puodelio kavos ar knygos.",
       "story_image": "https://lovurojus.lt/wp-content/uploads/2025/01/urban_prystavnyy_1.jpg",
-      "post_text": "Mažas detaliai – didelis poveikis. 📚 „Lite“ – jūsų svetainės pabaiga.",
+      "post_text": "Mažas staliukas – didelis komfortas. ☕ „Lite“ – tai paskutinis štrichas tavo svetainės paveikslui.",
       "images": [
         "https://lovurojus.lt/wp-content/uploads/2025/01/urban_prystavnyy_1.jpg",
         "https://lovurojus.lt/wp-content/uploads/2025/01/urban_prystavnyy.jpg"
       ],
       "thumbnail": "https://lovurojus.lt/wp-content/uploads/2025/01/urban_prystavnyy_1.jpg",
-      "model_3d_url": "",
+      "model_3d_url": null,
       "ar_scale": 1.0,
       "ar_rotation": [0, 180, 0]
     }
@@ -300,14 +299,6 @@
       "ends_soon": true,
       "image_url": "https://lovurojus.lt/wp-content/uploads/2024/10/1.png",
       "badge": "Ervinga"
-    },
-    {
-      "id": "offer_milana",
-      "product_id": "prod_milana",
-      "title": "Sofa Milana",
-      "ends_soon": true,
-      "image_url": "https://lovurojus.lt/wp-content/uploads/2024/04/viber_image_2024-04-26_13-40-00-859.jpg",
-      "badge": "Naujiena"
     }
   ],
   "all_products": [
@@ -507,6 +498,137 @@
       "model_3d_url": "https://firebasestorage.googleapis.com/v0/b/lovurojus-ar.appspot.com/o/models%2Ftv_stand_modern.glb?alt=media",
       "ar_scale": 0.9,
       "ar_rotation": [0, 180, 0]
+    },
+    {
+      "id": "prod_tendencija",
+      "name": "Stalas \"Tendencija\" 2dydžiai",
+      "category_id": "dining_tables",
+      "price": 699,
+      "currency": "EUR",
+      "free_delivery": true,
+      "installment": true,
+      "rating": 5,
+      "description": "Stilingas ir funkcionalus valgomojo stalas su medžio struktūra. Tinka tiek šeimos pietums, tiek svečių vakarėliams.",
+      "story": "„Tendencija“ – tai stovėjimas ant laiko. Jo medinis paviršius atspindi gamtos grožį, o stipri konstrukcija užtikrina ilgą tarnavimą. Jis tampa jūsų namų centru – kur susitinka šeima, kur vyksta pokalbiai ir juokas.",
+      "story_image": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_110_70_idastrial_wh_1.jpg",
+      "post_text": "Kai stalas tampa susibūrimo vieta. 🍽️ „Tendencija“ – tai ne tik baldas, tai šeimos istorijų kūrėjas.",
+      "images": [
+        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_110_70_idastrial_wh_1.jpg",
+        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_115_75_1.jpg"
+      ],
+      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_110_70_idastrial_wh_1.jpg",
+      "model_3d_url": null,
+      "ar_scale": 1.0,
+      "ar_rotation": [0, 180, 0]
+    },
+    {
+      "id": "prod_max",
+      "name": "Išskleidžiamas stalas \"Max\" 50-330cm",
+      "category_id": "dining_tables",
+      "price": 1299,
+      "currency": "EUR",
+      "free_delivery": true,
+      "installment": true,
+      "rating": 5,
+      "description": "Universalus išskleidžiamas stalas, kuris pritaikomas bet kokiam erdvės poreikiui – nuo dviejų žmonių iki didelės šeimos.",
+      "story": "„Max“ – tai protingas sprendimas mažam butui. Dieną – kompaktiškas stalas, vakare – didelis stalas svečiams. Jis simbolizuoja lankstumą ir šeimos vienybę.",
+      "story_image": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_115_75_1.jpg",
+      "post_text": "Išskleidžiamas stalas, kuris auga kartu su tavo poreikiais. 📏 „Max“ – tai protingas būsto sprendimas.",
+      "images": [
+        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_115_75_1.jpg"
+      ],
+      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_115_75_1.jpg",
+      "model_3d_url": null,
+      "ar_scale": 1.0,
+      "ar_rotation": [0, 180, 0]
+    },
+    {
+      "id": "prod_lime_36",
+      "name": "Stalas \"Lime\" 36mm 3dydžiai",
+      "category_id": "dining_tables",
+      "price": 799,
+      "currency": "EUR",
+      "free_delivery": true,
+      "installment": true,
+      "rating": 5,
+      "description": "Stabilus ir stilingas stalas su 36 mm storio plokšte. Tinka šiuolaikiniam interjerui ir ilgam naudojimui.",
+      "story": "„Lime“ – tai tvirtumas ir švarus dizainas. Jo storis sako daugiau nei žodžiai – tai ilgaamžiškumas, patogumas ir stilius kiekvieną dieną.",
+      "story_image": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d900_1.jpg",
+      "post_text": "Storas, stiprus, stilingas. 💚 „Lime“ – tai stalas, kuris atlaiko ne tik pietus, bet ir laiką.",
+      "images": [
+        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d900_1.jpg",
+        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d900.jpg"
+      ],
+      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d900_1.jpg",
+      "model_3d_url": null,
+      "ar_scale": 1.0,
+      "ar_rotation": [0, 180, 0]
+    },
+    {
+      "id": "prod_lime_18",
+      "name": "Stalas \"Lime\" 18mm 3dydžiai",
+      "category_id": "dining_tables",
+      "price": 599,
+      "currency": "EUR",
+      "free_delivery": true,
+      "installment": true,
+      "rating": 4,
+      "description": "Lengvas ir funkcionalus stalas su 18 mm plokšte. Puikus pasirinkimas kaip antrasis stalas ar mažam būstui.",
+      "story": "„Lime 18“ – tai paprastumas ir funkcionalumas. Jis netrukdo, bet visada čia – kai reikia arbatos, darbo ar trumpo pietų.",
+      "story_image": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d1100_0-1.jpg",
+      "post_text": "Ne kiekvienas stalas turi būti didelis. 🍵 „Lime 18“ – tai kompaktiškas draugas kiekvienai dienai.",
+      "images": [
+        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d1100_0-1.jpg",
+        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d900.jpg"
+      ],
+      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d1100_0-1.jpg",
+      "model_3d_url": null,
+      "ar_scale": 1.0,
+      "ar_rotation": [0, 180, 0]
+    },
+    {
+      "id": "prod_omega",
+      "name": "Stalas \"Omega\" 3 dydžiai",
+      "category_id": "dining_tables",
+      "price": 899,
+      "currency": "EUR",
+      "free_delivery": true,
+      "installment": true,
+      "rating": 5,
+      "description": "Elegantus stalas su elegantišku metaliniu rėmu ir mediniu paviršiumi. Tinka tiek moderniam, tiek industrial stiliaus interjerui.",
+      "story": "„Omega“ – tai susitikimas tarp metalo ir medžio. Jėga ir šiluma. Jis tampa interjero akcentu, apie kurį kalbama.",
+      "story_image": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_original_100_0.jpg",
+      "post_text": "Kai dizainas kalba. 🔩 „Omega“ – tai stalas, kuris tampa meno kūriniu tavo virtuvėje.",
+      "images": [
+        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_original_100_0.jpg",
+        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_original_130x80_0.jpg"
+      ],
+      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_original_100_0.jpg",
+      "model_3d_url": null,
+      "ar_scale": 1.0,
+      "ar_rotation": [0, 180, 0]
+    },
+    {
+      "id": "prod_lite_table",
+      "name": "Žurnalinis staliukas \"Lite\"",
+      "category_id": "coffee_tables",
+      "price": 249,
+      "currency": "EUR",
+      "free_delivery": true,
+      "installment": true,
+      "rating": 4,
+      "description": "Minimalistinis kavos staliukas su apvaliu paviršiumi. Puikiai tinka prie sofos ir suteikia baigtumo svetainės interjerui.",
+      "story": "„Lite“ – tai paprastumas, kuris džiugina. Jis neužkrauna erdvės, bet visada čia – kai reikia puodelio kavos ar knygos.",
+      "story_image": "https://lovurojus.lt/wp-content/uploads/2025/01/urban_prystavnyy_1.jpg",
+      "post_text": "Mažas staliukas – didelis komfortas. ☕ „Lite“ – tai paskutinis štrichas tavo svetainės paveikslui.",
+      "images": [
+        "https://lovurojus.lt/wp-content/uploads/2025/01/urban_prystavnyy_1.jpg",
+        "https://lovurojus.lt/wp-content/uploads/2025/01/urban_prystavnyy.jpg"
+      ],
+      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2025/01/urban_prystavnyy_1.jpg",
+      "model_3d_url": null,
+      "ar_scale": 1.0,
+      "ar_rotation": [0, 180, 0]
     }
   ],
   "offers": {
@@ -576,9 +698,5 @@
     "contact": "https://lovurojus.lt/kontaktai",
     "privacy_policy": "https://lovurojus.lt/privatumo-politika",
     "terms": "https://lovurojus.lt/salygos"
-  },
-  "auth": {
-    "sign_in": "Prisijungti",
-    "sign_out": "Atsijungti"
   }
 }
