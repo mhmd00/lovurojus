@@ -259,14 +259,16 @@
       "ar_rotation": [0, 180, 0]
     }
   ],
-   "monthly_offers": [
+  "monthly_offers": [
     {
       "id": "offer_klasika",
       "product_id": "prod_klasika",
       "title": "Sofa-Lova Klasika su integruotu čiužiniu",
       "ends_soon": true,
       "image_url": "https://lovurojus.lt/wp-content/uploads/2024/10/2.png",
-      "badge": "Ribotas laikas"
+      "badge": "Ribotas laikas",
+      "price": 999,
+      "currency": "EUR"
     },
     {
       "id": "offer_bona3",
@@ -274,7 +276,9 @@
       "title": "Sofa-Lova Bona 3 su integruotu čiužiniu",
       "ends_soon": true,
       "image_url": "https://lovurojus.lt/wp-content/uploads/2024/10/8.png",
-      "badge": "Populiariausia"
+      "badge": "Populiariausia",
+      "price": 1199,
+      "currency": "EUR"
     },
     {
       "id": "offer_bona1",
@@ -282,7 +286,9 @@
       "title": "Fotelis-Lova Bona 1 su integruotu čiužiniu",
       "ends_soon": true,
       "image_url": "https://lovurojus.lt/wp-content/uploads/2024/10/6.png",
-      "badge": "Kompaktiška"
+      "badge": "Kompaktiška",
+      "price": 699,
+      "currency": "EUR"
     },
     {
       "id": "offer_bona2",
@@ -290,7 +296,9 @@
       "title": "Sofa-Lova Bona 2 su integruotu čiužiniu",
       "ends_soon": true,
       "image_url": "https://lovurojus.lt/wp-content/uploads/2024/10/7.png",
-      "badge": "Gerų atsiliepimų"
+      "badge": "Gerų atsiliepimų",
+      "price": 1099,
+      "currency": "EUR"
     },
     {
       "id": "offer_aiste",
@@ -298,7 +306,9 @@
       "title": "Sofa-Lova Aistė su integruotu čiužiniu",
       "ends_soon": true,
       "image_url": "https://lovurojus.lt/wp-content/uploads/2024/10/1.png",
-      "badge": "Ervinga"
+      "badge": "Ervinga",
+      "price": 1299,
+      "currency": "EUR"
     }
   ],
   "all_products": [
