@@ -10,17 +10,21 @@
     "instagram": "https://instagram.com/lovurojus",
     "exhibition_link": "https://lovurojus.lt/eksponavimas",
     "support_email": "info@lovurojus.lt",
-    "last_updated": "2025-04-05T19:00:00Z"
+    "last_updated": "2025-04-05T19:30:00Z"
   },
   "categories": [
     { "id": "corner_sofas", "name": "Minkšti kampai", "count": 59, "image": "https://lovurojus.lt/wp-content/uploads/2024/10/minksti-kampai.jpg" },
     { "id": "l_shaped_sofas", "name": "L-formos minkšti kampai", "count": 46, "image": "https://lovurojus.lt/wp-content/uploads/2024/10/l-formos-kampas.jpg" },
     { "id": "sofas", "name": "Sofos", "count": 36, "image": "https://lovurojus.lt/wp-content/uploads/2024/04/sofa-milana.jpg" },
     { "id": "armchairs", "name": "Minkšti krėslai", "count": 32, "image": "https://lovurojus.lt/wp-content/uploads/2024/10/fotelis-bona1.jpg" },
-    { "id": "tables", "name": "Stalai", "count": 31, "image": "https://lovurojus.lt/wp-content/uploads/2025/01/stalas-tendencija.jpg" },
-    { "id": "beds", "name": "Lovos", "count": 28, "image": "https://lovurojus.lt/wp-content/uploads/2024/10/lova-aiste.jpg" },
     { "id": "dining_tables", "name": "Valgomojo stalai", "count": 39, "image": "https://lovurojus.lt/wp-content/uploads/2025/01/stalas-tendencija.jpg" },
-    { "id": "coffee_tables", "name": "Kavos staliukai", "count": 5, "image": "https://lovurojus.lt/wp-content/uploads/2025/01/kavos-staliukas-lite.jpg" }
+    { "id": "coffee_tables", "name": "Kavos staliukai", "count": 5, "image": "https://lovurojus.lt/wp-content/uploads/2025/01/kavos-staliukas-lite.jpg" },
+    { "id": "beds", "name": "Lovos", "count": 28, "image": "https://lovurojus.lt/wp-content/uploads/2024/10/lova-aiste.jpg" },
+    { "id": "wardrobes", "name": "Spintos", "count": 18, "image": "https://lovurojus.lt/wp-content/uploads/2024/10/spinta-aura.jpg" },
+    { "id": "tv_stands", "name": "TV spintelės", "count": 14, "image": "https://lovurojus.lt/wp-content/uploads/2024/10/tv-spintelė-modern.jpg" },
+    { "id": "shelves", "name": "Lentynos", "count": 12, "image": "https://lovurojus.lt/wp-content/uploads/2024/10/lentyna-urban.jpg" },
+    { "id": "kids_furniture", "name": "Vaikų baldai", "count": 10, "image": "https://lovurojus.lt/wp-content/uploads/2024/10/vaiku-kambarys.jpg" },
+    { "id": "office_furniture", "name": "Ofiso baldai", "count": 8, "image": "https://lovurojus.lt/wp-content/uploads/2024/10/ofiso-kedas.jpg" }
   ],
   "most_attention_products": [
     {
@@ -365,6 +369,53 @@
       "thumbnail": "https://lovurojus.lt/wp-content/uploads/2024/04/viber_image_2024-04-26_13-40-00-859.jpg",
       "model_3d_url": "https://firebasestorage.googleapis.com/v0/b/lovurojus-ar.appspot.com/o/models%2Fsofa_milana.glb?alt=media",
       "ar_scale": 0.95,
+      "ar_rotation": [0, 180, 0]
+    },
+    {
+      "id": "prod_spinta_aura",
+      "name": "Spinta \"Aura\"",
+      "category_id": "wardrobes",
+      "price": 1499,
+      "currency": "EUR",
+      "free_delivery": true,
+      "installment": true,
+      "rating": 4.5,
+      "description": "Moderni dvivėrė spinta su veidrodžiu – funkcionalus sprendimas miegamajam.",
+      "story": "„Aura“ – tai elegancija ir tvarka. Ji padeda išlaikyti tvarką, o jos veidrodis kasdien primena, koks jūs gražus.",
+      "story_image": "https://lovurojus.lt/wp-content/uploads/2024/10/spinta-aura.jpg",
+      "post_text": "Kai spinta tampa dailės kūriniu. 🪞 „Aura“ – ne tik saugo drabužius, bet ir atspindi tavo grožį.",
+      "images": [
+        "https://lovurojus.lt/wp-content/uploads/2024/10/spinta-aura.jpg",
+        "https://lovurojus.lt/wp-content/uploads/2024/10/spinta-aura-interior.jpg",
+        "https://lovurojus.lt/wp-content/uploads/2024/10/spinta-aura-open.jpg",
+        "https://lovurojus.lt/wp-content/uploads/2024/10/spinta-aura-closeup.jpg"
+      ],
+      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2024/10/spinta-aura.jpg",
+      "model_3d_url": "https://firebasestorage.googleapis.com/v0/b/lovurojus-ar.appspot.com/o/models%2Fwardrobe_aura.glb?alt=media",
+      "ar_scale": 1.0,
+      "ar_rotation": [0, 180, 0]
+    },
+    {
+      "id": "prod_tv_modern",
+      "name": "TV spintelė \"Modern\"",
+      "category_id": "tv_stands",
+      "price": 499,
+      "currency": "EUR",
+      "free_delivery": true,
+      "installment": true,
+      "rating": 4,
+      "description": "Minimalistinė TV spintelė su atvirose lentynose.",
+      "story": "„Modern“ – tai tvarka ir stilius. Ji sutvarko laidus, suteikia erdvę ir tampa interjero dalimi.",
+      "story_image": "https://lovurojus.lt/wp-content/uploads/2024/10/tv-spintelė-modern.jpg",
+      "post_text": "TV be chaoso? Galima. 📺 „Modern“ – tai sprendimas, kuris suteikia tvarką ir stilių.",
+      "images": [
+        "https://lovurojus.lt/wp-content/uploads/2024/10/tv-spintelė-modern.jpg",
+        "https://lovurojus.lt/wp-content/uploads/2024/10/tv-modern-interior.jpg",
+        "https://lovurojus.lt/wp-content/uploads/2024/10/tv-modern-closeup.jpg"
+      ],
+      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2024/10/tv-spintelė-modern.jpg",
+      "model_3d_url": "https://firebasestorage.googleapis.com/v0/b/lovurojus-ar.appspot.com/o/models%2Ftv_stand_modern.glb?alt=media",
+      "ar_scale": 0.9,
       "ar_rotation": [0, 180, 0]
     }
   ],
