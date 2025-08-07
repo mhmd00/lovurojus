@@ -578,28 +578,7 @@
     "terms": "https://lovurojus.lt/salygos"
   },
   "auth": {
-    "sign_in": {
-      "text": "Prisijungti",
-      "url": "https://lovurojus.lt/prisijungti"
-    },
-    "sign_out": {
-      "text": "Atsijungti",
-      "url": "https://lovurojus.lt/atsijungti"
-    },
-    "register": {
-      "text": "Registruotis",
-      "url": "https://lovurojus.lt/registracija"
-    },
-    "account": {
-      "text": "Mano paskyra",
-      "url": "https://lovurojus.lt/mano-paskyra"
-    },
-    "orders": {
-      "text": "Mano užsakymai",
-      "url": "https://lovurojus.lt/mano-uzsakymai"
-    },
-    "wishlist": {
-      "text": "Pageidavimų sąrašas",
-      "url": "https://lovurojus.lt/pageidavimu-sarasas"
-    }
+    "sign_in": "Prisijungti",
+    "sign_out": "Atsijungti"
   }
+}
