@@ -128,149 +128,136 @@
   ],
   "most_attention_products": [
     {
-      "id": "prod_klasika",
-      "name": "Sofa-Lova Klasika su integruotu čiužiniu",
-      "category_id": "sofas",
-      "price": 999,
+      "id": "prod_tendencija",
+      "name": "Stalas \"Tendencija\" 2 dydžiai",
+      "category_id": "dining_tables",
+      "price": 599,
       "currency": "EUR",
       "free_delivery": true,
       "installment": true,
       "rating": 5,
-      "description": "Klasikinė sofa, kuri tampa lova – puikus pasirinkimas svečiams.",
-      "story": "„Klasika“ – tai ne tik baldas, tai šeimos istorija. Ji atlaiko laiką, vaikų šuolius ir nesuskaičiuojamas nakvynes svečių. Ji lieka tvirta, patogi ir graži.",
-      "story_image": "https://lovurojus.lt/wp-content/uploads/2024/10/2.png",
-      "post_text": "Klasika niekada neišeina iš mados. 🛋️ „Klasika“ – tai sofa, kuri tarnaus ne vienai kartai. Ji tampa jūsų namų istorijos dalimi.",
+      "description": "Stilingas valgomojo stalas su metaline rėmo konstrukcija ir medžio faktūros stalviršiu. Tinka šiuolaikiniam interjerui.",
+      "story": "„Tendencija“ – tai balansas tarp stiliaus ir funkcionalumo. Jis tampa jūsų virtuvės ar svetainės centru, kur susitinka šeima ir draugai.",
+      "story_image": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_110_70_idastrial_wh_1.jpg",
+      "post_text": "Kai stalas tampa dėmesio centru. 🍽️ „Tendencija“ – ne tik valgymas, bet ir šeimos istorijos.",
       "images": [
-        "https://lovurojus.lt/wp-content/uploads/2024/10/2.png",
-        "https://lovurojus.lt/wp-content/uploads/2024/10/viber_image_2024-10-22_16-24-46-743.jpg",
-        "https://lovurojus.lt/wp-content/uploads/2024/10/klasika_interior.jpg",
-        "https://lovurojus.lt/wp-content/uploads/2024/10/klasika_night.jpg",
-        "https://lovurojus.lt/wp-content/uploads/2024/10/klasika_closeup.jpg"
+        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_110_70_idastrial_wh_1.jpg",
+        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_115_75_1.jpg"
       ],
-      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2024/10/2.png",
-      "model_3d_url": "https://firebasestorage.googleapis.com/v0/b/lovurojus-ar.appspot.com/o/models%2Fsofa_klasika.glb?alt=media",
+      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_110_70_idastrial_wh_1.jpg",
+      "model_3d_url": "",
       "ar_scale": 1.0,
-      "ar_rotation": [
-        0,
-        180,
-        0
-      ]
+      "ar_rotation": [0, 180, 0]
     },
     {
-      "id": "prod_bona3",
-      "name": "Sofa-Lova Bona 3 su integruotu čiužiniu",
-      "category_id": "l_shaped_sofas",
-      "price": 1199,
-      "currency": "EUR",
-      "free_delivery": true,
-      "installment": true,
-      "rating": 5,
-      "description": "Ervingas L-formos kampas su vokišku čiužiniu. Puikiai tinka dideliems kambariams ir šeimos susibūrimams.",
-      "story": "„Bona 3“ – tai komforto centras. Ji kviečia atsipalaiduoti, žiūrėti filmus ir net miegoti. Ji tampa jūsų namų širdimi.",
-      "story_image": "https://lovurojus.lt/wp-content/uploads/2024/10/8.png",
-      "post_text": "Šeimos filmų vakaras? „Bona 3“ jau paruošta. 🍿 Ervinga, patogi, su integruotu čiužiniu – ji tampa jūsų namų širdimi.",
-      "images": [
-        "https://lovurojus.lt/wp-content/uploads/2024/10/8.png",
-        "https://lovurojus.lt/wp-content/uploads/2024/10/viber_image_2024-11-25_14-59-00-384.jpg",
-        "https://lovurojus.lt/wp-content/uploads/2024/10/bona3_interior.jpg",
-        "https://lovurojus.lt/wp-content/uploads/2024/10/bona3_night.jpg",
-        "https://lovurojus.lt/wp-content/uploads/2024/10/bona3_closeup.jpg"
-      ],
-      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2024/10/8.png",
-      "model_3d_url": "https://firebasestorage.googleapis.com/v0/b/lovurojus-ar.appspot.com/o/models%2Fsofa_bona3.glb?alt=media",
-      "ar_scale": 1.05,
-      "ar_rotation": [
-        0,
-        180,
-        0
-      ]
-    },
-    {
-      "id": "prod_bona1",
-      "name": "Fotelis-Lova Bona 1 su integruotu čiužiniu",
-      "category_id": "armchairs",
-      "price": 699,
-      "currency": "EUR",
-      "free_delivery": true,
-      "installment": true,
-      "rating": 4,
-      "description": "Kompaktiškas fotelis, kuris tampa lova. Puikiai tinka mažiems butams ar svečių kambariui.",
-      "story": "„Bona 1“ – tai sprendimas mažiems butams. Ji neatrodo kaip svečių lova – atrodo kaip stilingas fotelis, bet naktį tampa miego erdve.",
-      "story_image": "https://lovurojus.lt/wp-content/uploads/2024/10/6.png",
-      "post_text": "Mažas kampas – didelis komfortas. 🛌 „Bona 1“ – tai ne fotelis, tai paslėpta lova. Puikus pasirinkimas svečiams.",
-      "images": [
-        "https://lovurojus.lt/wp-content/uploads/2024/10/6.png",
-        "https://lovurojus.lt/wp-content/uploads/2024/10/viber_image_2024-11-25_15-47-36-885.jpg",
-        "https://lovurojus.lt/wp-content/uploads/2024/10/bona1_interior.jpg",
-        "https://lovurojus.lt/wp-content/uploads/2024/10/bona1_transform.jpg",
-        "https://lovurojus.lt/wp-content/uploads/2024/10/bona1_closeup.jpg"
-      ],
-      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2024/10/6.png",
-      "model_3d_url": "https://firebasestorage.googleapis.com/v0/b/lovurojus-ar.appspot.com/o/models%2Fchair_bona1.glb?alt=media",
-      "ar_scale": 0.9,
-      "ar_rotation": [
-        0,
-        180,
-        0
-      ]
-    },
-    {
-      "id": "prod_bona2",
-      "name": "Sofa-Lova Bona 2 su integruotu čiužiniu",
-      "category_id": "sofas",
-      "price": 1099,
-      "currency": "EUR",
-      "free_delivery": true,
-      "installment": true,
-      "rating": 5,
-      "description": "Moderni sofa su lengvu transformavimu. Tinka kasdieniam miegui ir puikiai atrodo svetainėje.",
-      "story": "„Bona 2“ – tai stilius ir funkcionalumas. Ji atrodo kaip elegantiška sofa, bet naktį tampa jaukia lova. Idealus pasirinkimas svečiams.",
-      "story_image": "https://lovurojus.lt/wp-content/uploads/2024/10/7.png",
-      "post_text": "Dieną – sofa. Naktį – lova. 🌙 „Bona 2“ – tai daugiafunkcinis komfortas. Idealus tiek porai, tiek svečiams.",
-      "images": [
-        "https://lovurojus.lt/wp-content/uploads/2024/10/7.png",
-        "https://lovurojus.lt/wp-content/uploads/2024/10/viber_image_2024-10-22_16-21-14-443.jpg",
-        "https://lovurojus.lt/wp-content/uploads/2024/10/bona2_interior.jpg",
-        "https://lovurojus.lt/wp-content/uploads/2024/10/bona2_bed_mode.jpg",
-        "https://lovurojus.lt/wp-content/uploads/2024/10/bona2_closeup.jpg"
-      ],
-      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2024/10/7.png",
-      "model_3d_url": "https://firebasestorage.googleapis.com/v0/b/lovurojus-ar.appspot.com/o/models%2Fsofa_bona2.glb?alt=media",
-      "ar_scale": 1.0,
-      "ar_rotation": [
-        0,
-        180,
-        0
-      ]
-    },
-    {
-      "id": "prod_aiste",
-      "name": "Sofa-Lova Aistė su integruotu čiužiniu",
-      "category_id": "l_shaped_sofas",
+      "id": "prod_max_table",
+      "name": "Išskleidžiamas stalas \"Max\" 50-330cm",
+      "category_id": "dining_tables",
       "price": 1299,
       "currency": "EUR",
       "free_delivery": true,
       "installment": true,
       "rating": 5,
-      "description": "Didelė L-formos sofa su minkštu čiužiniu, puikiai tinka dideliems šeimos susibūrimams.",
-      "story": "„Aistė“ – tai erdvė ir jaukumas. Su ja jūs ne tik sėdite – jūs išsitiesiate, miegate, žiūrite serialus. Ji tampa jūsų asmenine oaza.",
-      "story_image": "https://lovurojus.lt/wp-content/uploads/2024/10/1.png",
-      "post_text": "Kai sofa tampa oaza. 🌿 „Aistė“ – tai ne tik baldas, tai kvietimas atsipalaiduoti, išsitiesinti ir pamiršti pasaulį.",
+      "description": "Universalus išskleidžiamas stalas, kuris telpa nuo 2 iki 12 žmonių. Puikus pasirinkimas dažniems svečiams.",
+      "story": "„Max“ – tai svečių priėmimo meistras. Nesvarbu, ar tai dviese, ar šeima – jis visada paruoštas.",
+      "story_image": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_110_70_idastrial_wh_1.jpg",
+      "post_text": "Mažas erdvėje, didelis reikmėje. 🪑 „Max“ – stalas, kuris plečiasi su jūsų poreikiais.",
       "images": [
-        "https://lovurojus.lt/wp-content/uploads/2024/10/1.png",
-        "https://lovurojus.lt/wp-content/uploads/2024/10/viber_image_2024-11-25_14-55-29-105.jpg",
-        "https://lovurojus.lt/wp-content/uploads/2024/10/aiste_interior.jpg",
-        "https://lovurojus.lt/wp-content/uploads/2024/10/aiste_night.jpg",
-        "https://lovurojus.lt/wp-content/uploads/2024/10/aiste_closeup.jpg"
+        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_110_70_idastrial_wh_1.jpg",
+        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_115_75_1.jpg"
       ],
-      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2024/10/1.png",
-      "model_3d_url": "https://firebasestorage.googleapis.com/v0/b/lovurojus-ar.appspot.com/o/models%2Fsofa_aiste.glb?alt=media",
-      "ar_scale": 1.1,
-      "ar_rotation": [
-        0,
-        180,
-        0
-      ]
+      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_vegas_110_70_idastrial_wh_1.jpg",
+      "model_3d_url": "",
+      "ar_scale": 1.0,
+      "ar_rotation": [0, 180, 0]
+    },
+    {
+      "id": "prod_lime_36",
+      "name": "Stalas \"Lime\" 36mm 3 dydžiai",
+      "category_id": "dining_tables",
+      "price": 699,
+      "currency": "EUR",
+      "free_delivery": true,
+      "installment": true,
+      "rating": 5,
+      "description": "Masyvus, tvirtas stalas iš 36 mm storio plokštės. Atsparus dėvėjimui, tinka kasdieniam naudojimui.",
+      "story": "„Lime“ – tai ilgaamžiškumas. Jis tarnaus ne vienai kartai, atlaikys vaikų piešimus ir šeimos šventes.",
+      "story_image": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d900_1.jpg",
+      "post_text": "Storas, stiprus, stilingas. 🌲 „Lime“ – stalas, kuris atlaikys laiką.",
+      "images": [
+        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d900_1.jpg",
+        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d900.jpg"
+      ],
+      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d900_1.jpg",
+      "model_3d_url": "",
+      "ar_scale": 1.0,
+      "ar_rotation": [0, 180, 0]
+    },
+    {
+      "id": "prod_lime_18",
+      "name": "Stalas \"Lime\" 18mm 3 dydžiai",
+      "category_id": "dining_tables",
+      "price": 499,
+      "currency": "EUR",
+      "free_delivery": true,
+      "installment": true,
+      "rating": 5,
+      "description": "Lengvesnė, ekonomiška versija „Lime“ stalo su 18 mm storio stalviršiu. Puikus pasirinkimas biudžetui.",
+      "story": "Net ir mažesnis „Lime“ nepraranda stiliaus. Jis suteikia jaukumo kiekvienam vakarui.",
+      "story_image": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d1100_0-1.jpg",
+      "post_text": "Stiliumi – kaip brangesnis, kaina – protinga. 💚 „Lime 18mm“ – gudrus pasirinkimas.",
+      "images": [
+        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d1100_0-1.jpg",
+        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d900.jpg"
+      ],
+      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_lite36-d1100_0-1.jpg",
+      "model_3d_url": "",
+      "ar_scale": 1.0,
+      "ar_rotation": [0, 180, 0]
+    },
+    {
+      "id": "prod_omega",
+      "name": "Stalas \"Omega\" 3 dydžiai",
+      "category_id": "dining_tables",
+      "price": 549,
+      "currency": "EUR",
+      "free_delivery": true,
+      "installment": true,
+      "rating": 5,
+      "description": "Elegantus stalas su elegantingu rėmu ir aukštos kokybės stalviršiu. Tinka tiek moderniems, tiek klasikiniams interjerams.",
+      "story": "„Omega“ – tai baigtumas. Kai įeinat į kambarį, jis iš karto traukia akį.",
+      "story_image": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_original_100_0.jpg",
+      "post_text": "Kai stalas kalba apie skonį. 🪵 „Omega“ – jūsų interjero dėmesio taškas.",
+      "images": [
+        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_original_100_0.jpg",
+        "https://lovurojus.lt/wp-content/uploads/2025/01/stil_original_130x80_0.jpg"
+      ],
+      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2025/01/stil_original_100_0.jpg",
+      "model_3d_url": "",
+      "ar_scale": 1.0,
+      "ar_rotation": [0, 180, 0]
+    },
+    {
+      "id": "prod_lite_table",
+      "name": "Žurnalinis staliukas \"Lite\"",
+      "category_id": "coffee_tables",
+      "price": 199,
+      "currency": "EUR",
+      "free_delivery": true,
+      "installment": true,
+      "rating": 5,
+      "description": "Minimalistinis kavos staliukas su medžio faktūra ir metaline rėmo konstrukcija. Tinka prie bet kurios sofos.",
+      "story": "„Lite“ – tai paprastumas, kuris veikia. Jis nepersveria erdvės, bet suteikia funkcionalumo.",
+      "story_image": "https://lovurojus.lt/wp-content/uploads/2025/01/urban_prystavnyy_1.jpg",
+      "post_text": "Mažas detaliai – didelis poveikis. 📚 „Lite“ – jūsų svetainės pabaiga.",
+      "images": [
+        "https://lovurojus.lt/wp-content/uploads/2025/01/urban_prystavnyy_1.jpg",
+        "https://lovurojus.lt/wp-content/uploads/2025/01/urban_prystavnyy.jpg"
+      ],
+      "thumbnail": "https://lovurojus.lt/wp-content/uploads/2025/01/urban_prystavnyy_1.jpg",
+      "model_3d_url": "",
+      "ar_scale": 1.0,
+      "ar_rotation": [0, 180, 0]
     }
   ],
   "monthly_offers": [
@@ -313,6 +300,14 @@
       "ends_soon": true,
       "image_url": "https://lovurojus.lt/wp-content/uploads/2024/10/1.png",
       "badge": "Ervinga"
+    },
+    {
+      "id": "offer_milana",
+      "product_id": "prod_milana",
+      "title": "Sofa Milana",
+      "ends_soon": true,
+      "image_url": "https://lovurojus.lt/wp-content/uploads/2024/04/viber_image_2024-04-26_13-40-00-859.jpg",
+      "badge": "Naujiena"
     }
   ],
   "all_products": [
@@ -339,11 +334,7 @@
       "thumbnail": "https://lovurojus.lt/wp-content/uploads/2024/10/2.png",
       "model_3d_url": "https://firebasestorage.googleapis.com/v0/b/lovurojus-ar.appspot.com/o/models%2Fsofa_klasika.glb?alt=media",
       "ar_scale": 1.0,
-      "ar_rotation": [
-        0,
-        180,
-        0
-      ]
+      "ar_rotation": [0, 180, 0]
     },
     {
       "id": "prod_bona3",
@@ -368,11 +359,7 @@
       "thumbnail": "https://lovurojus.lt/wp-content/uploads/2024/10/8.png",
       "model_3d_url": "https://firebasestorage.googleapis.com/v0/b/lovurojus-ar.appspot.com/o/models%2Fsofa_bona3.glb?alt=media",
       "ar_scale": 1.05,
-      "ar_rotation": [
-        0,
-        180,
-        0
-      ]
+      "ar_rotation": [0, 180, 0]
     },
     {
       "id": "prod_bona1",
@@ -397,11 +384,7 @@
       "thumbnail": "https://lovurojus.lt/wp-content/uploads/2024/10/6.png",
       "model_3d_url": "https://firebasestorage.googleapis.com/v0/b/lovurojus-ar.appspot.com/o/models%2Fchair_bona1.glb?alt=media",
       "ar_scale": 0.9,
-      "ar_rotation": [
-        0,
-        180,
-        0
-      ]
+      "ar_rotation": [0, 180, 0]
     },
     {
       "id": "prod_bona2",
@@ -426,11 +409,7 @@
       "thumbnail": "https://lovurojus.lt/wp-content/uploads/2024/10/7.png",
       "model_3d_url": "https://firebasestorage.googleapis.com/v0/b/lovurojus-ar.appspot.com/o/models%2Fsofa_bona2.glb?alt=media",
       "ar_scale": 1.0,
-      "ar_rotation": [
-        0,
-        180,
-        0
-      ]
+      "ar_rotation": [0, 180, 0]
     },
     {
       "id": "prod_aiste",
@@ -455,11 +434,7 @@
       "thumbnail": "https://lovurojus.lt/wp-content/uploads/2024/10/1.png",
       "model_3d_url": "https://firebasestorage.googleapis.com/v0/b/lovurojus-ar.appspot.com/o/models%2Fsofa_aiste.glb?alt=media",
       "ar_scale": 1.1,
-      "ar_rotation": [
-        0,
-        180,
-        0
-      ]
+      "ar_rotation": [0, 180, 0]
     },
     {
       "id": "prod_milana",
@@ -484,11 +459,7 @@
       "thumbnail": "https://lovurojus.lt/wp-content/uploads/2024/04/viber_image_2024-04-26_13-40-00-859.jpg",
       "model_3d_url": "https://firebasestorage.googleapis.com/v0/b/lovurojus-ar.appspot.com/o/models%2Fsofa_milana.glb?alt=media",
       "ar_scale": 0.95,
-      "ar_rotation": [
-        0,
-        180,
-        0
-      ]
+      "ar_rotation": [0, 180, 0]
     },
     {
       "id": "prod_spinta_aura",
@@ -512,11 +483,7 @@
       "thumbnail": "https://lovurojus.lt/wp-content/uploads/2024/10/spinta-aura.jpg",
       "model_3d_url": "https://firebasestorage.googleapis.com/v0/b/lovurojus-ar.appspot.com/o/models%2Fwardrobe_aura.glb?alt=media",
       "ar_scale": 1.0,
-      "ar_rotation": [
-        0,
-        180,
-        0
-      ]
+      "ar_rotation": [0, 180, 0]
     },
     {
       "id": "prod_tv_modern",
@@ -539,11 +506,7 @@
       "thumbnail": "https://lovurojus.lt/wp-content/uploads/2024/10/tv-spintelė-modern.jpg",
       "model_3d_url": "https://firebasestorage.googleapis.com/v0/b/lovurojus-ar.appspot.com/o/models%2Ftv_stand_modern.glb?alt=media",
       "ar_scale": 0.9,
-      "ar_rotation": [
-        0,
-        180,
-        0
-      ]
+      "ar_rotation": [0, 180, 0]
     }
   ],
   "offers": {
@@ -613,5 +576,9 @@
     "contact": "https://lovurojus.lt/kontaktai",
     "privacy_policy": "https://lovurojus.lt/privatumo-politika",
     "terms": "https://lovurojus.lt/salygos"
+  },
+  "auth": {
+    "sign_in": "Prisijungti",
+    "sign_out": "Atsijungti"
   }
 }
