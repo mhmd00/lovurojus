@@ -22,84 +22,108 @@
       "name": "Minkšti kampai",
       "count": 59,
       "image": "https://lovurojus.lt/wp-content/uploads/2024/10/minksti-kampai.jpg",
-      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/sofa_corner_logo.png"
+      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/sofa_corner_logo.png",
+      "icon": "corner-sofa",
+      "url": "https://lovurojus.lt/produkto-kategorija/minksti-kampai/"
     },
     {
       "id": "l_shaped_sofas",
       "name": "L-formos minkšti kampai",
       "count": 46,
       "image": "https://lovurojus.lt/wp-content/uploads/2024/10/l-formos-kampas.jpg",
-      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/sofa_l_shaped_logo.png"
+      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/sofa_l_shaped_logo.png",
+      "icon": "l-shaped-sofa",
+      "url": "https://lovurojus.lt/produkto-kategorija/l-formos-minksti-kampai/"
     },
     {
       "id": "sofas",
       "name": "Sofos",
       "count": 36,
       "image": "https://lovurojus.lt/wp-content/uploads/2024/04/sofa-milana.jpg",
-      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/sofa_logo.png"
+      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/sofa_logo.png",
+      "icon": "sofa",
+      "url": "https://lovurojus.lt/produkto-kategorija/sofos/"
     },
     {
       "id": "armchairs",
       "name": "Minkšti krėslai",
       "count": 32,
       "image": "https://lovurojus.lt/wp-content/uploads/2024/10/fotelis-bona1.jpg",
-      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/armchair_logo.png"
+      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/armchair_logo.png",
+      "icon": "armchair",
+      "url": "https://lovurojus.lt/produkto-kategorija/minksti-kreslai/"
     },
     {
       "id": "dining_tables",
       "name": "Valgomojo stalai",
       "count": 39,
       "image": "https://lovurojus.lt/wp-content/uploads/2025/01/stalas-tendencija.jpg",
-      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/dining_table_logo.png"
+      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/dining_table_logo.png",
+      "icon": "dining-table",
+      "url": "https://lovurojus.lt/produkto-kategorija/valgomojo-stalai/"
     },
     {
       "id": "coffee_tables",
       "name": "Kavos staliukai",
       "count": 5,
       "image": "https://lovurojus.lt/wp-content/uploads/2025/01/kavos-staliukas-lite.jpg",
-      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/coffee_table_logo.png"
+      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/coffee_table_logo.png",
+      "icon": "coffee-table",
+      "url": "https://lovurojus.lt/produkto-kategorija/kavos-staliukai/"
     },
     {
       "id": "beds",
       "name": "Lovos",
       "count": 28,
       "image": "https://lovurojus.lt/wp-content/uploads/2024/10/lova-aiste.jpg",
-      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/bed_logo.png"
+      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/bed_logo.png",
+      "icon": "bed",
+      "url": "https://lovurojus.lt/produkto-kategorija/lovos/"
     },
     {
       "id": "wardrobes",
       "name": "Spintos",
       "count": 18,
       "image": "https://lovurojus.lt/wp-content/uploads/2024/10/spinta-aura.jpg",
-      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/wardrobe_logo.png"
+      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/wardrobe_logo.png",
+      "icon": "wardrobe",
+      "url": "https://lovurojus.lt/produkto-kategorija/spintos/"
     },
     {
       "id": "tv_stands",
       "name": "TV spintelės",
       "count": 14,
       "image": "https://lovurojus.lt/wp-content/uploads/2024/10/tv-spintelė-modern.jpg",
-      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/tv_stand_logo.png"
+      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/tv_stand_logo.png",
+      "icon": "tv-stand",
+      "url": "https://lovurojus.lt/produkto-kategorija/tv-spinteles/"
     },
     {
       "id": "shelves",
       "name": "Lentynos",
       "count": 12,
       "image": "https://lovurojus.lt/wp-content/uploads/2024/10/lentyna-urban.jpg",
-      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/shelf_logo.png"
+      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/shelf_logo.png",
+      "icon": "shelf",
+      "url": "https://lovurojus.lt/produkto-kategorija/lentynos/"
     },
     {
       "id": "kids_furniture",
       "name": "Vaikų baldai",
       "count": 10,
       "image": "https://lovurojus.lt/wp-content/uploads/2024/10/vaiku-kambarys.jpg",
-      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/kids_furniture_logo.png"
+      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/kids_furniture_logo.png",
+      "icon": "kids-furniture",
+      "url": "https://lovurojus.lt/produkto-kategorija/vaiku-baldai/"
     },
     {
       "id": "office_furniture",
       "name": "Ofiso baldai",
       "count": 8,
       "image": "https://lovurojus.lt/wp-content/uploads/2024/10/ofiso-kedas.jpg",
-      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/office_furniture_logo.png"
+      "logo": "https://lovurojus.lt/wp-content/uploads/2024/10/office_furniture_logo.png",
+      "icon": "office-furniture",
+      "url": "https://lovurojus.lt/produkto-kategorija/ofiso-baldai/"
     }
   ],
   "most_attention_products": [
